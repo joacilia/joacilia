@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @joacilia
 - 👀 I’m interested in music, programming, chemistry and
-- 🌱 I’m currently learning html, css and JavaScript
+- 🌱 I’m currently learning HTML, CSS and JavaScript
 - 📫 How to reach me @yamadajoacilia on social midia
 
 
